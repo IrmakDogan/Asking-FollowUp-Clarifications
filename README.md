@@ -1,3 +1,9 @@
+# Asking Follow-Up Clarifications to Resolve Ambiguities in Human-Robot Conversation
+
+Fethiye Irmak Dogan, Ilaria Torre, Iolanda Leite
+KTH Royal Institute of Technology
+Contact: fidogan@kth.se
+
 # System Requirements
 
 Ubuntu 18.04.6
@@ -21,3 +27,7 @@ https://drive.google.com/file/d/1sPVZ5W4Herhmd-1xOMkgSmRGMA9Pc6eY/view?usp=shari
 $ conda create --name <env> --file requirements.txt
 
 Run Code.ipynb in jupyter notebook
+
+# Collected dataset during the User Study
+
+Available under "/data/User_Study_Data/"

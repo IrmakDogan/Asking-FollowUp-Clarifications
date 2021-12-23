@@ -2,7 +2,7 @@
 
 Fethiye Irmak Dogan, Ilaria Torre, Iolanda Leite
 
-KTH Royal Institute of Technology
+ACM/IEEE International Conference on Human-Robot Interaction, 2022
 
 Contact: fidogan@kth.se
 
@@ -21,12 +21,12 @@ CUDNN Version 7.0.5
 Download and Install Grad-CAM:
 https://github.com/ramprs/grad-cam/
 
-# Create the virtual environment
+# Create the Virtual Environment
 
 $ conda create --name <env> --file requirements.txt
 
 Run Code.ipynb in jupyter notebook
 
-# Collected dataset during the User Study
+# Collected Dataset during the User Study
 
-Available under "/data/User_Study_Data/"
+Available under "/data/user_study_collected_data/"

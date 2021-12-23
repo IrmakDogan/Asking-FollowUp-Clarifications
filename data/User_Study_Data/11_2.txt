@@ -1,0 +1,66 @@
+1631266945.68 <Participant_11>
+1631266945.68 <Scene_2>
+1631266945.68 <Condition_Experimantal>
+1631266949.61 <Pepper_Start_Exp> Let's play the game!
+1631266950.61 <Object_num_0>
+1631266955.43 <Pepper_Describe> Can you describe the first object?
+1631266965.64 <Human_Describe> the yellow lemon that has left of the Green Basil
+1631266970.05 <Pepper_Thinking_Exp> I need to think for a while!
+1631266980.17 <Pepper_Say> Is the yellow lemon behind the apple from your viewpoint?
+1631266982.81 <Human_Say> no
+1631266990.82 <Pepper_Say> Is the yellow lemon to the right of the banana from your viewpoint?
+1631266992.7 <Human_Say> no
+1631266996.89 <Pepper_Unknown_Obj> I couldn't find this one!
+1631267003.86 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631267009.81 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631267009.81 <Object_num_1>
+1631267014.45 <Pepper_Describe> Can you describe the next object?
+1631267024.67 <Human_Describe> the bottle that is left of the computer mouse
+1631267028.54 <Pepper_Thinking_Exp> Hold on a second!
+1631267040.21 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631267051.8 <Human_Shw> yes
+1631267055.01 <Pepper_Correct_Obj> Perfect!
+1631267060.91 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631267060.91 <Object_num_2>
+1631267065.53 <Pepper_Describe> Can you describe the next object?
+1631267081.09 <Pepper_Describe_line_repeat> I couldn't hear you. Can you describe the next object?
+1631267092.17 <Expression_Corrected>
+1631267102.3 <Human_Describe> the green artichoke that is close to the red paprika
+1631267106.12 <Pepper_Thinking_Exp> Hold on a second!
+1631267117.43 <Pepper_Say> Is the green artichoke to the left of the knife from your viewpoint?
+1631267120.5 <Human_Say> yes
+1631267134.94 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631267146.3 <Human_Shw> yes
+1631267149.49 <Pepper_Correct_Obj> Perfect!
+1631267155.88 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631267155.88 <Object_num_3>
+1631267160.52 <Pepper_Describe> Can you describe the next object?
+1631267168.59 <Human_Describe> the spoon that is close to the yellow paprika
+1631267172.27 <Pepper_Thinking_Exp> Give me a second!
+1631267184.29 <Pepper_Say> Is the spoon to the right of the bottle from your viewpoint?
+1631267185.37 <Human_Say> yes
+1631267194.63 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631267206.13 <Human_Shw> yes
+1631267209.76 <Pepper_Correct_Obj> Perfect!
+1631267215.92 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631267215.92 <Object_num_4>
+1631267220.57 <Pepper_Describe> Can you describe the next object?
+1631267228.55 <Human_Describe> the knife that is close to the green paprika
+1631267232.26 <Pepper_Thinking_Exp> Give me a second!
+1631267243.55 <Pepper_Say> Is the knife close to the apple from your viewpoint?
+1631267245.25 <Human_Say> yes
+1631267254.17 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631267266.13 <Human_Shw> yes
+1631267269.33 <Pepper_Correct_Obj> Perfect!
+1631267275.57 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631267275.57 <Object_num_5>
+1631267280.12 <Pepper_Describe> Can you describe the last object?
+1631267288.96 <Expression_Corrected>
+1631267294.75 <Human_Describe> the Green Basil next to the fork
+1631267298.46 <Pepper_Thinking_Exp> Give me a second!
+1631267308.94 <Pepper_Say> Is the green basil to the right of the knife from your viewpoint?
+1631267311.93 <Human_Say> yes
+1631267324.99 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631267336.47 <Human_Shw> yes
+1631267339.66 <Pepper_Correct_Obj> Perfect!
+1631267349.59 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you for joining! \pau=500\ Hope to see you soon!

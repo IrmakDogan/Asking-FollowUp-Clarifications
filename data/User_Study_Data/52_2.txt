@@ -1,0 +1,88 @@
+1631813450.78 <Participant_52>
+1631813450.78 <Scene_2>
+1631813450.78 <Condition_Control>
+1631813455.05 <Pepper_Start_Exp> Let's play the game!
+1631813456.22 <Object_num_0>
+1631813461.21 <Pepper_Describe> Can you describe the first object?
+1631813468.76 <Expression_Corrected>
+1631813473.76 <Human_Describe> the lemon in front of the banana
+1631813478.12 <Pepper_Thinking_Exp> I need to think for a while!
+1631813493.45 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631813505.18 <Human_Shw> yes
+1631813508.43 <Pepper_Correct_Obj> Perfect!
+1631813514.13 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631813514.13 <Object_num_1>
+1631813518.93 <Pepper_Describe> Can you describe the next object?
+1631813525.47 <Expression_Corrected>
+1631813532.49 <Human_Describe> the bottle near to the red pepper
+1631813536.37 <Pepper_Thinking_Exp> Hold on a second!
+1631813544.93 <Pepper_Describe> Can you describe the object again?
+1631813553.56 <Human_Describe> the bottle near to the red pepper
+1631813557.47 <Pepper_Thinking_Exp> Hold on a second!
+1631813566.19 <Pepper_Describe> Can you describe the object again?
+1631813573.44 <Expression_Corrected>
+1631813577.89 <Human_Describe> the bottle near to the red pepper
+1631813581.74 <Pepper_Thinking_Exp> Give me a second!
+1631813589.73 <Pepper_Unknown_Obj> I couldn't find this one!
+1631813596.0 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631813612.25 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631813612.25 <Object_num_2>
+1631813617.0 <Pepper_Describe> Can you describe the next object?
+1631813624.1 <Expression_Corrected>
+1631813632.84 <Human_Describe> the green vegetable near to the the green vegetable
+1631813636.6 <Pepper_Thinking_Exp> Give me a second!
+1631813645.28 <Pepper_Describe> Can you describe the object again?
+1631813654.28 <Expression_Corrected>
+1631813659.73 <Human_Describe> the green vegetable next to the flower
+1631813663.75 <Pepper_Thinking_Exp> Give me a second!
+1631813672.64 <Pepper_Describe> Can you describe the object again?
+1631813679.18 <Expression_Corrected>
+1631813687.75 <Human_Describe> the green vegetable in front of the red pepper
+1631813691.12 <Pepper_Thinking_Exp> Let me see!
+1631813698.97 <Pepper_Unknown_Obj> I couldn't find this one!
+1631813705.97 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631813713.52 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631813713.52 <Object_num_3>
+1631813718.19 <Pepper_Describe> Can you describe the next object?
+1631813723.29 <Expression_Corrected>
+1631813729.79 <Human_Describe> the spoon behind the pepper
+1631813733.7 <Pepper_Thinking_Exp> Hold on a second!
+1631813742.76 <Pepper_Describe> Can you describe the object again?
+1631813750.79 <Expression_Corrected>
+1631813756.18 <Human_Describe> the spoon in front of pepper
+1631813760.62 <Pepper_Thinking_Exp> I need to think for a while!
+1631813768.89 <Pepper_Describe> Can you describe the object again?
+1631813774.87 <Expression_Corrected>
+1631813781.77 <Human_Describe> the spoon near to the bottle
+1631813786.24 <Pepper_Thinking_Exp> I need to think for a while!
+1631813793.67 <Pepper_Unknown_Obj> I couldn't find this one!
+1631813799.83 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631813805.94 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631813805.94 <Object_num_4>
+1631813810.9 <Pepper_Describe> Can you describe the next object?
+1631813816.76 <Expression_Corrected>
+1631813826.45 <Human_Describe> the knife near to the banana
+1631813830.21 <Pepper_Thinking_Exp> Hold on a second!
+1631813839.33 <Pepper_Describe> Can you describe the object again?
+1631813846.16 <Expression_Corrected>
+1631813854.77 <Human_Describe> the knife right side of the banana
+1631813858.5 <Pepper_Thinking_Exp> Give me a second!
+1631813867.72 <Pepper_Describe> Can you describe the object again?
+1631813874.11 <Expression_Corrected>
+1631813882.35 <Human_Describe> the knife left side of green pepper
+1631813886.29 <Pepper_Thinking_Exp> Hold on a second!
+1631813897.87 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631813909.05 <Human_Shw> no
+1631813915.14 <Pepper_Wrong_Obj> Oops, I am sorry! I am still learning!
+1631813921.01 <Pepper_Object_Pick_Req> Can you pick up the correct object from the table?
+1631813926.39 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631813926.4 <Object_num_5>
+1631813931.3 <Pepper_Describe> Can you describe the last object?
+1631813938.29 <Expression_Corrected>
+1631813949.84 <Human_Describe> the flower in front of apple
+1631813954.23 <Pepper_Thinking_Exp> I need to think for a while!
+1631813969.76 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631813981.95 <Human_Shw> no
+1631813988.29 <Pepper_Wrong_Obj> Oops, I am sorry! I am still learning!
+1631813995.89 <Pepper_Object_Pick_Req> Can you pick up the correct object from the table?
+1631814005.79 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you for joining! \pau=500\ Hope to see you soon!

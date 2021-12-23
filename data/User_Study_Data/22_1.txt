@@ -1,0 +1,63 @@
+1631524174.13 <Participant_22>
+1631524174.13 <Scene_1>
+1631524174.13 <Condition_Experimantal>
+1631524204.44 <Pepper_Start_Exp> Hey, today we will play a game. \pau=500\ In this game, you will describe some of the objects in front of me. \pau=200\ For instance, I would describe my favorite object on the table as \pau=100\ the spoon next to the red apple. \pau=800\ After your description, I will try to find the object. \pau=100\ Then, you will put the described object in your basket. \pau=500\ Let's start!
+1631524205.39 <Object_num_0>
+1631524210.35 <Pepper_Describe> Can you describe the first object?
+1631524216.72 <Human_Describe> the green pepper next to the fork
+1631524221.09 <Pepper_Thinking_Exp> I need to think for a while!
+1631524233.56 <Pepper_Say> Is the green pepper to the right of the fork from your viewpoint?
+1631524234.73 <Human_Say> yes
+1631524247.45 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631524259.12 <Human_Shw> yes
+1631524262.36 <Pepper_Correct_Obj> Perfect!
+1631524269.47 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631524269.47 <Object_num_1>
+1631524274.11 <Pepper_Describe> Can you describe the next object?
+1631524279.08 <Expression_Corrected>
+1631524287.4 <Human_Describe> the yellow banana next to the spoon
+1631524291.3 <Pepper_Thinking_Exp> Hold on a second!
+1631524303.99 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631524316.01 <Human_Shw> yes
+1631524319.23 <Pepper_Correct_Obj> Perfect!
+1631524325.45 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631524325.45 <Object_num_2>
+1631524330.08 <Pepper_Describe> Can you describe the next object?
+1631524337.8 <Expression_Corrected>
+1631524343.68 <Human_Describe> the Green Basil next to the Apple
+1631524347.5 <Pepper_Thinking_Exp> Hold on a second!
+1631524363.76 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631524376.45 <Human_Shw> yes
+1631524379.65 <Pepper_Correct_Obj> Perfect!
+1631524385.31 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631524385.31 <Object_num_3>
+1631524389.94 <Pepper_Describe> Can you describe the next object?
+1631524399.58 <Human_Describe> the water bottle next to the artichoke
+1631524403.32 <Pepper_Thinking_Exp> Give me a second!
+1631524415.56 <Pepper_Say> Is the water bottle behind the knife from your viewpoint?
+1631524416.52 <Human_Say> yes
+1631524425.78 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631524437.46 <Human_Shw> yes
+1631524440.8 <Pepper_Correct_Obj> Perfect!
+1631524447.21 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631524447.21 <Object_num_4>
+1631524451.85 <Pepper_Describe> Can you describe the next object?
+1631524458.57 <Human_Describe> the yellow lemon next to tomatoes
+1631524462.32 <Pepper_Thinking_Exp> Give me a second!
+1631524473.96 <Pepper_Say> Is the yellow lemon behind the mouse from your viewpoint?
+1631524477.76 <Human_Say> no
+1631524485.36 <Pepper_Say> Is the yellow lemon to the left of the knife from your viewpoint?
+1631524486.5 <Human_Say> no
+1631524490.76 <Pepper_Unknown_Obj> I couldn't find this one!
+1631524497.05 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631524503.35 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631524503.35 <Object_num_5>
+1631524507.92 <Pepper_Describe> Can you describe the last object?
+1631524515.05 <Human_Describe> the Red Apple next to the banana
+1631524518.77 <Pepper_Thinking_Exp> Give me a second!
+1631524532.12 <Pepper_Say> Is the red apple to the left of the banana from your viewpoint?
+1631524533.04 <Human_Say> yes
+1631524542.45 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631524554.54 <Human_Shw> yes
+1631524557.77 <Pepper_Correct_Obj> Perfect!
+1631524564.76 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you!

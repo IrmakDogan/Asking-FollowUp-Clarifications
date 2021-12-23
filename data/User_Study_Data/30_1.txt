@@ -1,0 +1,63 @@
+1631542092.88 <Participant_30>
+1631542092.88 <Scene_1>
+1631542092.88 <Condition_Experimantal>
+1631542123.16 <Pepper_Start_Exp> Hey, today we will play a game. \pau=500\ In this game, you will describe some of the objects in front of me. \pau=200\ For instance, I would describe my favorite object on the table as \pau=100\ the spoon next to the red apple. \pau=800\ After your description, I will try to find the object. \pau=100\ Then, you will put the described object in your basket. \pau=500\ Let's start!
+1631542124.08 <Object_num_0>
+1631542128.89 <Pepper_Describe> Can you describe the first object?
+1631542141.7 <Expression_Corrected>
+1631542146.23 <Expression_Corrected>
+1631542155.36 <Human_Describe> the green pepper shaped fruit in between the red apple
+1631542159.73 <Pepper_Thinking_Exp> I need to think for a while!
+1631542174.88 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631542186.76 <Human_Shw> yes
+1631542190.06 <Pepper_Correct_Obj> Perfect!
+1631542197.09 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631542203.85 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631542203.85 <Object_num_1>
+1631542208.54 <Pepper_Describe> Can you describe the next object?
+1631542215.25 <Human_Describe> the banana next to the red pepper
+1631542219.05 <Pepper_Thinking_Exp> Hold on a second!
+1631542231.07 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631542242.72 <Human_Shw> yes
+1631542245.94 <Pepper_Correct_Obj> Perfect!
+1631542253.19 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631542253.19 <Object_num_2>
+1631542257.83 <Pepper_Describe> Can you describe the next object?
+1631542262.93 <Expression_Corrected>
+1631542278.58 <Human_Describe> the leafy plant in between the red apple and red chili
+1631542282.44 <Pepper_Thinking_Exp> Hold on a second!
+1631542298.42 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631542310.46 <Human_Shw> yes
+1631542313.82 <Pepper_Correct_Obj> Perfect!
+1631542320.1 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631542320.1 <Object_num_3>
+1631542324.75 <Pepper_Describe> Can you describe the next object?
+1631542333.63 <Expression_Corrected>
+1631542340.7 <Human_Describe> the luka bottle closest to the knife
+1631542344.37 <Pepper_Thinking_Exp> Give me a second!
+1631542356.75 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631542369.28 <Human_Shw> no
+1631542375.43 <Pepper_Wrong_Obj> Oops, I am sorry! I am still learning!
+1631542382.74 <Pepper_Object_Pick_Req> Can you pick up the correct object from the table?
+1631542390.96 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631542390.96 <Object_num_4>
+1631542395.7 <Pepper_Describe> Can you describe the next object?
+1631542403.09 <Human_Describe> the lemon next to the tomatoes
+1631542406.84 <Pepper_Thinking_Exp> Give me a second!
+1631542418.07 <Pepper_Say> Is the lemon to the right of the spoon from your viewpoint?
+1631542426.25 <Human_Say> no
+1631542433.08 <Pepper_Say> Is the lemon behind the mouse from your viewpoint?
+1631542435.07 <Human_Say> no
+1631542439.28 <Pepper_Unknown_Obj> I couldn't find this one!
+1631542446.58 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631542452.76 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631542452.76 <Object_num_5>
+1631542457.3 <Pepper_Describe> Can you describe the last object?
+1631542463.53 <Human_Describe> the Apple in the middle of the table
+1631542467.35 <Pepper_Thinking_Exp> Give me a second!
+1631542479.76 <Pepper_Say> Is the apple to the left of the banana from your viewpoint?
+1631542480.68 <Human_Say> yes
+1631542490.09 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631542502.1 <Human_Shw> yes
+1631542505.39 <Pepper_Correct_Obj> Perfect!
+1631542512.35 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you!

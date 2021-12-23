@@ -1,0 +1,66 @@
+1631192500.28 <Participant_7>
+1631192500.28 <Scene_2>
+1631192500.28 <Condition_Experimantal>
+1631192504.35 <Pepper_Start_Exp> Let's play the game!
+1631192506.34 <Object_num_0>
+1631192511.09 <Pepper_Describe> Can you describe the first object?
+1631192521.45 <Human_Describe> the lemon to the left of the knife
+1631192525.8 <Pepper_Thinking_Exp> I need to think for a while!
+1631192542.8 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192554.89 <Human_Shw> no
+1631192561.05 <Pepper_Wrong_Obj> Oops, I am sorry! I am still learning!
+1631192568.12 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631192568.12 <Object_num_1>
+1631192572.73 <Pepper_Describe> Can you describe the next object?
+1631192588.51 <Expression_Corrected>
+1631192593.66 <Human_Describe> the bottle above the orange
+1631192597.47 <Pepper_Thinking_Exp> Hold on a second!
+1631192609.35 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192620.67 <Human_Shw> yes
+1631192624.01 <Pepper_Correct_Obj> Perfect!
+1631192632.07 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631192637.77 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631192637.77 <Object_num_2>
+1631192642.43 <Pepper_Describe> Can you describe the next object?
+1631192653.49 <Human_Describe> the artichoke next to the basil plant
+1631192657.3 <Pepper_Thinking_Exp> Hold on a second!
+1631192668.14 <Pepper_Say> Is the artichoke to the left of the knife from your viewpoint?
+1631192672.14 <Human_Say> yes
+1631192686.57 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192699.42 <Human_Shw> yes
+1631192705.61 <Pepper_Wrong_Obj> Perfect!
+1631192711.78 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631192711.78 <Object_num_3>
+1631192716.53 <Pepper_Describe> Can you describe the next object?
+1631192724.8 <Human_Describe> the spoon on the right side of the table
+1631192728.39 <Pepper_Thinking_Exp> Give me a second!
+1631192740.67 <Pepper_Say> Is the spoon to the right of the bottle from your viewpoint?
+1631192744.05 <Human_Say> yes
+1631192753.14 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192764.73 <Human_Shw> yes
+1631192767.91 <Pepper_Correct_Obj> Perfect!
+1631192778.28 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631192778.28 <Object_num_4>
+1631192782.9 <Pepper_Describe> Can you describe the next object?
+1631192792.85 <Human_Describe> the knife next to the lemon
+1631192796.54 <Pepper_Thinking_Exp> Give me a second!
+1631192807.97 <Pepper_Say> Is the knife in front of the orange from your viewpoint?
+1631192811.53 <Human_Say> no
+1631192818.24 <Pepper_Say> Is the knife close to the apple from your viewpoint?
+1631192823.76 <Human_Say> yes
+1631192832.66 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192843.87 <Human_Shw> yes
+1631192847.18 <Pepper_Correct_Obj> Perfect!
+1631192854.94 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631192862.38 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631192862.38 <Object_num_5>
+1631192866.94 <Pepper_Describe> Can you describe the last object?
+1631192872.49 <Human_Describe> the basil plant
+1631192876.17 <Pepper_Thinking_Exp> Give me a second!
+1631192887.47 <Pepper_Say> Is the basil plant to the right of the knife from your viewpoint?
+1631192890.06 <Human_Say> yes
+1631192902.98 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631192914.28 <Human_Shw> yes
+1631192917.52 <Pepper_Correct_Obj> Perfect!
+1631192924.8 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631192935.01 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you for joining! \pau=500\ Hope to see you soon!

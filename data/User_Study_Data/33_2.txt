@@ -1,0 +1,78 @@
+1631620128.32 <Participant_33>
+1631620128.32 <Scene_2>
+1631620128.32 <Condition_Experimantal>
+1631620132.33 <Pepper_Start_Exp> Let's play the game!
+1631620133.13 <Object_num_0>
+1631620137.93 <Pepper_Describe> Can you describe the first object?
+1631620153.56 <Expression_Corrected>
+1631620159.39 <Human_Describe> the yellow lemon and yellow banana left to the knife
+1631620163.74 <Pepper_Thinking_Exp> I need to think for a while!
+1631620179.42 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631620191.3 <Human_Shw> yes
+1631620194.55 <Pepper_Correct_Obj> Perfect!
+1631620201.49 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620208.62 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631620208.62 <Object_num_1>
+1631620213.27 <Pepper_Describe> Can you describe the next object?
+1631620219.04 <Expression_Corrected>
+1631620228.18 <Human_Describe> the bottle right to the red pepper
+1631620232.05 <Pepper_Thinking_Exp> Hold on a second!
+1631620243.57 <Pepper_Say> Is the bottle to the right of the cup from your viewpoint?
+1631620246.6 <Human_Say> no
+1631620253.64 <Pepper_Say> Is the bottle behind the orange from your viewpoint?
+1631620255.1 <Human_Say> yes
+1631620264.03 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631620276.8 <Human_Shw> yes
+1631620280.04 <Pepper_Correct_Obj> Perfect!
+1631620286.22 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620293.24 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631620293.24 <Object_num_2>
+1631620297.91 <Pepper_Describe> Can you describe the next object?
+1631620318.62 <Expression_Corrected>
+1631620323.77 <Expression_Corrected>
+1631620329.11 <Human_Describe> the green artichokes Under the Red Pepper
+1631620333.03 <Pepper_Thinking_Exp> Hold on a second!
+1631620345.32 <Pepper_Say> Is the green artichokes to the right of the apple from your viewpoint?
+1631620350.77 <Human_Say> no
+1631620358.77 <Pepper_Say> Is the green artichokes to the left of the orange from your viewpoint?
+1631620361.57 <Human_Say> no
+1631620365.73 <Pepper_Unknown_Obj> I couldn't find this one!
+1631620373.02 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620380.82 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631620380.82 <Object_num_3>
+1631620385.45 <Pepper_Describe> Can you describe the next object?
+1631620395.87 <Human_Describe> the spoon right to the bottle over the yellow pepper
+1631620399.67 <Pepper_Thinking_Exp> Give me a second!
+1631620411.77 <Pepper_Say> Is the spoon to the right of the bottle from your viewpoint?
+1631620412.53 <Human_Say> yes
+1631620421.75 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631620433.36 <Human_Shw> yes
+1631620436.67 <Pepper_Correct_Obj> Perfect!
+1631620445.5 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620451.94 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631620451.94 <Object_num_4>
+1631620456.59 <Pepper_Describe> Can you describe the next object?
+1631620466.5 <Expression_Corrected>
+1631620476.48 <Human_Describe> the knife right to the yellow banana
+1631620480.23 <Pepper_Thinking_Exp> Give me a second!
+1631620492.06 <Pepper_Say> Is the knife in front of the orange from your viewpoint?
+1631620494.27 <Human_Say> no
+1631620501.02 <Pepper_Say> Is the knife close to the apple from your viewpoint?
+1631620501.69 <Human_Say> yes
+1631620510.71 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631620522.28 <Human_Shw> yes
+1631620525.47 <Pepper_Correct_Obj> Perfect!
+1631620531.87 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620538.09 <Pepper_End_Obj_Exp> Let's continue with the next object!
+1631620538.09 <Object_num_5>
+1631620542.64 <Pepper_Describe> Can you describe the last object?
+1631620553.49 <Expression_Corrected>
+1631620560.29 <Human_Describe> the green leaves right to the green pepper under the fork
+1631620564.03 <Pepper_Thinking_Exp> Give me a second!
+1631620574.89 <Pepper_Say> Is the green leaves behind the apple from your viewpoint?
+1631620575.47 <Human_Say> yes
+1631620589.04 <Pepper_Check_Tablet> Check the red box on my tablet to see \pau=100\ whether it is the object you described!
+1631620600.99 <Human_Shw> yes
+1631620604.19 <Pepper_Correct_Obj> Perfect!
+1631620610.85 <Pepper_Object_Pick_Req> Can you pick up the described object from the table?
+1631620621.67 <Pepper_End_Obj_Exp> This was the last object! \pau=500\ Thank you for joining! \pau=500\ Hope to see you soon!
